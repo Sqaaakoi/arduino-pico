@@ -346,6 +346,9 @@ MakeBoard("ilabs_rpico32", "iLabs", "RPICO32", "0x2e8a", "0x1010", 250, "ILABS_2
 # Melopera
 MakeBoard("melopero_shake_rp2040", "Melopero", "Shake RP2040", "0x2e8a", "0x1005", 250, "MELOPERO_SHAKE_RP2040", 16, "boot2_w25q080_2_padded_checksum")
 
+# Pimoroni
+MakeBoard("pimoroni_keybow2040", "Pimoroni", "Keybow 2040", "0x16d0", "0x08c6", 250, "PIMORONI_KEYBOW2040", 16, "boot2_w25q080_2_padded_checksum")
+
 # Solder Party
 MakeBoard("solderparty_rp2040_stamp", "Solder Party", "RP2040 Stamp", "0x1209", "0xa182", 500, "SOLDERPARTY_RP2040_STAMP", 8, "boot2_generic_03h_4_padded_checksum")
 
