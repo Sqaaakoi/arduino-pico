@@ -1,8 +1,7 @@
 #pragma once
 
-// not pinned out
-// LEDs
-#define PIN_LED        (31u)
+// Pin definitions taken from:
+//    https://cdn.shopify.com/s/files/1/0174/1800/files/keybow_2040_schematic.pdf?v=1629994431
 
 // BOOTSEL / User switch
 #define PIN_USER_SW    23
